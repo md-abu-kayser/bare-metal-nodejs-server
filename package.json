@@ -13,9 +13,11 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs",
   "bugs": {
     "url": "https://github.com/md-abu-kayser/bare-metal-nodejs-server/issues"
   },
-  "homepage": "https://github.com/md-abu-kayser/bare-metal-nodejs-server#readme"
+  "homepage": "https://github.com/md-abu-kayser/bare-metal-nodejs-server#readme",
+  "devDependencies": {
+    "typescript": "^6.0.3"
+  }
 }
