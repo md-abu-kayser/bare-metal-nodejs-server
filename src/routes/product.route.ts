@@ -9,6 +9,8 @@ export const productRoute = (req: IncomingMessage, res: ServerResponse) => {
   if (method === "GET" && url === "/") {
     res.writeHead(200, { "constent-type": "application/json" });
     res.end(JSON.stringify({ message: "This is root url" }));
+  }else if(){
+    
   } else {
     res.writeHead(200, { "constent-type": "application/json" });
     res.end(JSON.stringify({ message: "There is no root route" }));
