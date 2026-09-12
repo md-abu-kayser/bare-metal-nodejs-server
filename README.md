@@ -1,8 +1,10 @@
 # Bare-Metal Node.js Server
 
-![TypeScript](https://img.shields.io/badge/TypeScript-6.x-3178C6?logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-native_HTTP-339933?logo=node.js&logoColor=white)
-![License](https://img.shields.io/badge/license-MIT-blue)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/docs/)
+
+[![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)](https://nodejs.org/docs/latest/api/)
+
+[![License](https://img.shields.io/badge/License-MIT-blue)](https://choosealicense.com/licenses/mit/)
 
 A lightweight, dependency-free product REST API built directly on Node.js's native `http` module and TypeScript. This project demonstrates how to design a clean HTTP request flow, parse JSON bodies, implement CRUD operations, and persist data without Express or a database server.
 
