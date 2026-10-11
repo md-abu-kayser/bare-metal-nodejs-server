@@ -217,13 +217,13 @@ These boundaries make the repository a useful foundation for incrementally evolv
 
 ---
 
-### Contact and Maintainer
+### Contact @ Maintainer
 
 - **Name:** Md Abu Kayser
 - **Project:** _bare-metal-nodejs-server_
 - **Email:** [abu.kayser.official@gmail.com](mailto:abu.kayser.official@gmail.com)
 - **GitHub:** [github.com/abu.kayser-official](https://github.com/md-abu-kayser)
 
-## Author
+### Author
 
 Built by [Md Abu Kayser](https://github.com/md-abu-kayser).
