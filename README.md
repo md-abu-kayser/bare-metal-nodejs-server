@@ -1,4 +1,4 @@
-# Bare-Metal Node.js Server
+# Bare-Metal Pure Node.js Server
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/docs/)
 
