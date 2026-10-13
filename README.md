@@ -29,7 +29,6 @@ This server is a practical exercise in understanding the foundations that framew
 - Automatic product ID generation with `Date.now()`
 - JSON request and response handling
 - Simple layered architecture with focused responsibilities
-- No runtime framework or external database dependency
 - Ready-to-use `.http` request example for VS Code REST clients
 
 ## Technology Stack
