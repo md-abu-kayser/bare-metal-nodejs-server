@@ -198,7 +198,6 @@ This project favors explicitness over framework convenience. That makes the requ
 - Structured logging
 - Automated unit and integration tests
 - Environment-based configuration for the port and datastore
-- A database repository for concurrent writes
 
 These boundaries make the repository a useful foundation for incrementally evolving a bare-metal HTTP service into a production-grade API.
 
